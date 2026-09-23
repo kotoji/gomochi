@@ -8,17 +8,17 @@
 <h4 align="center">A simple queue worker.</h4>
 
 <p align="center">
-  <a href="https://github.com/k5ki/gomochi/blob/main">
-    <img alt="Check status" src="https://img.shields.io/github/check-runs/k5ki/gomochi/main" />
+  <a href="https://github.com/kotoji/gomochi/blob/main">
+    <img alt="Check status" src="https://img.shields.io/github/check-runs/kotoji/gomochi/main" />
   </a>
-  <a href="https://github.com/k5ki/gomochi/releases">
-    <img alt="Latest release" src="https://img.shields.io/github/v/release/k5ki/gomochi?logo=starship&include_prerelease&sort=semver" />
+  <a href="https://github.com/kotoji/gomochi/releases">
+    <img alt="Latest release" src="https://img.shields.io/github/v/release/kotoji/gomochi?logo=starship&include_prerelease&sort=semver" />
   </a>
-  <a href="https://github.com/k5ki/gomochi/blob/main/LICENSE">
-     <img alt="License" src="https://img.shields.io/github/license/k5ki/gomochi" />
+  <a href="https://github.com/kotoji/gomochi/blob/main/LICENSE">
+     <img alt="License" src="https://img.shields.io/github/license/kotoji/gomochi" />
   </a>
   <a href="https://go.dev">
-    <img alt="Go version" src="https://img.shields.io/github/go-mod/go-version/k5ki/gomochi?logo=go" />
+    <img alt="Go version" src="https://img.shields.io/github/go-mod/go-version/kotoji/gomochi?logo=go" />
   </a>
 </p>
 
@@ -49,4 +49,4 @@ See <a href="./example/main.go">example</a>.
 
 ## License
 
-This software is released under the MIT License, [see LICENSE](https://github.com/k5ki/gomochi/blob/main/LICENSE).
+This software is released under the MIT License, [see LICENSE](https://github.com/kotoji/gomochi/blob/main/LICENSE).
