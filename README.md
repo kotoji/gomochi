@@ -42,7 +42,7 @@
 ## How To Use
 
 ```sh
-go get github.com/k5ki/gomochi
+go get github.com/kotoji/gomochi
 ```
 
 See <a href="./example/main.go">example</a>.
